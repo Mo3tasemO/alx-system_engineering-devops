@@ -15,3 +15,4 @@ file : give tou the tybe of the file
 ln -s : Make sympolic link
 cp : copy files
 mv : Move files
+rm * ~ : Remove all file that start with ~
