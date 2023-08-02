@@ -12,3 +12,4 @@ rmdir : Remove directory
 cd - : change directory to previous one
 ls -al . .. /boot : List in boot
 file : give tou the tybe of the file
+ln -s : Make sympolic link
