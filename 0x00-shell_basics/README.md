@@ -17,3 +17,4 @@ cp : copy files
 mv : Move files
 rm * ~ : Remove all file that start with ~
 mkdir -p : Make directories
+ls -alvp : list commas
