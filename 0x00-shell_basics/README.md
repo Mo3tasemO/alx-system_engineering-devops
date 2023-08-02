@@ -5,3 +5,4 @@ cd : change your directory
 ls -l : List your directory with long term
 ls -la : List with hidden files
 ls -lan : List all files numerically
+mkdir : Create a new directory
