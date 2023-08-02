@@ -10,3 +10,4 @@ mv : move files
 rm : Remove files
 rmdir : Remove directory
 cd - : change directory to previous one
+ls -al . .. /boot : List in boot
