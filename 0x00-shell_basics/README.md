@@ -8,3 +8,4 @@ ls -lan : List all files numerically
 mkdir : Create a new directory
 mv : move files
 rm : Remove files
+rmdir : Remove directory
