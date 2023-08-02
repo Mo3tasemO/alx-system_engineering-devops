@@ -14,3 +14,4 @@ ls -al . .. /boot : List in boot
 file : give tou the tybe of the file
 ln -s : Make sympolic link
 cp : copy files
+mv : Move files
